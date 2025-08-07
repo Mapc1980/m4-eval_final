@@ -330,25 +330,3 @@ body {
                 height: 60px;
             }
         }
-
-.cart-fab {
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  z-index: 1050;
-  border-radius: 999px;
-  width: 56px;
-  height: 56px;
-  display: grid;
-  place-items: center;
-  box-shadow: 0 8px 24px rgba(0,0,0,.2);
-}
-.cart-fab #cartBadge {
-  top: 0;
-  right: 0;
-  min-width: 24px;
-  height: 24px;
-  display: grid;
-  place-items: center;
-  font-size: 12px;
-}
